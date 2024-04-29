@@ -1,0 +1,4 @@
+export const MyToken1 = "0xF05A3B35b13D7A65E34893Cc9d2b402dacb5cec5"
+export const MyToken2 = "0xB08e6BA92C745863Dd253653d2a21Aff922e3fB3"
+export const UltraVerifier = "0xF87bE6fF851e686F67f30C730C998818C94c64aE"
+export const Escrow = "0xd94DF61114A6Bee794A5F34aDEF660D70825A443"
